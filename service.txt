@@ -1,0 +1,24 @@
+1. Spacecraft Design and Manufacturing
+
+Custom Spacecraft Development: Tailored design and manufacturing of spacecraft for various missions, including satellites, probes, and rovers.
+Spacecraft Components: Production of specialized components such as propulsion systems, avionics, and payload instruments.
+
+2. Launch Services
+
+Orbital Launches: Providing reliable and cost-effective launch services for satellites and other payloads into various orbits (LEO, MEO, GEO).
+Suborbital Flights: Offering suborbital spaceflights for research, tourism, and technology testing.
+
+3. Satellite Solutions
+
+Satellite Deployment: Design, construction, and launch of communication, Earth observation, and scientific satellites.
+Satellite Operations: Management and operation of satellites, including data acquisition, analysis, and maintenance.
+
+4. Space Exploration Missions
+
+Interplanetary Missions: Planning and execution of missions to other planets, moons, or asteroids for exploration and research.
+Deep Space Probes: Development and deployment of probes for studying distant celestial objects and phenomena.
+
+5. Space Research and Development
+
+Technology Research: Innovation and development of new technologies in propulsion, materials, and space systems.
+Scientific Research: Conducting research in space science, astrophysics, and planetary science, often in collaboration with academic and research institutions.

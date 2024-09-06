@@ -11,4 +11,3 @@ Spacecraft Development: Designing and manufacturing advanced spacecraft for vari
 Launch Services: Offering reliable and cost-effective launch services for commercial and government payloads.
 Space Research: Conducting cutting-edge research in [Specific Areas], contributing to the advancement of space science.
 Satellite Solutions: Providing satellite design, deployment, and management services for communications, Earth observation, and more.
-
